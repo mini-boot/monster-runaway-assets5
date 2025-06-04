@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6ef943ac30845a84096eed03d8a393ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167478
+  packageName: Easy Portal
+  packageVersion: 1.0
+  assetPath: Assets/Easy Portal/Demo Scenes/Script/demo.cs
+  uploadId: 369240
